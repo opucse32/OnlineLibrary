@@ -1,0 +1,30 @@
+To run the project Correctly, please follow the steps below.
+
+*** At first you need 'xampp' the most popular PHP development environment for projects.
+-> XAMPP download link ( https://www.apachefriends.org ).
+
+Step 1 : Open XAMPP control panel.
+Step 2 : Start apache & mysql from the control panel.
+Step 3 : Copy this project to C:\xampp\htdocs\OnlineLibrary
+Step 4 : Open your browswer (Chrome/Firefox/Opera/UC).
+Step 5 : Goto adress bar & type create.php (Enter).
+Step 6 : Again go to address bar & type http://localhost/phpmyadmin (Enter).
+Step 7 : Now create a new database named library
+Step 8 : Import library.sql file from the project.
+Step 9 : Goto address bar & type http://localhost/onlinelibrary/public
+
+	Done :-)
+	Hope you guys will like it.For ny kinds of suggestion/idea please contact with me.
+	Thank you...
+
+	Developer :-
+
+	Tawfiquzzaman Opu
+	Department of Computer Science & Engineering
+	Metropolitan University, Sylhet
+
+	Contact :-
+	Cell    : +8801714252870
+	email   : opu.cse32@gmail.com
+	fb      : fb.com/opudgreat
+	Youtube : https://www.youtube.com/channel/UCyAiNjuFtVTu29-eH1hrJKQ
